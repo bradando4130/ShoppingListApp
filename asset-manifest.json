@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShoppingListApp/static/css/main.eb47cdd6.css",
+    "main.js": "/ShoppingListApp/static/js/main.c31c0387.js",
+    "index.html": "/ShoppingListApp/index.html",
+    "main.eb47cdd6.css.map": "/ShoppingListApp/static/css/main.eb47cdd6.css.map",
+    "main.c31c0387.js.map": "/ShoppingListApp/static/js/main.c31c0387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb47cdd6.css",
+    "static/js/main.c31c0387.js"
+  ]
+}
