@@ -1,0 +1,38 @@
+.list {
+  margin: 2rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.paper-list {
+  background-color: white;
+  list-style: decimal;
+  padding-left: 1rem;
+}
+
+.list-item {
+  margin: 0;
+  padding-right: 1rem;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid red;
+}
+
+.list-item p {
+  margin: 0;
+  padding: 0.8rem;
+  display: inline-block;
+}
+
+.list-item p:first-child {
+  flex-grow: 2;
+  border-left: 1px solid red;
+}
+
+.button-delete {
+    color: black;
+    background-color: tomato;
+    width: 2rem;
+    margin: auto;
+}
